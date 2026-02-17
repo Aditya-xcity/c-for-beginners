@@ -1,7 +1,17 @@
 /*Design a UDF in C to find the product and quotient of two numbers passed to
 it from the calling program. Display the product and the quotient in the main
 program. Read the two numbers in the main program & also display their
-product and quotient. Implement using a pointer.*/
+product and quotient. Implement using a pointer.
+
+  Name    - ADITYA BHARDWAJ
+  Section - F1
+  Roll No - 06
+  Course  - B TECH
+  Branch  - CSE
+
+
+
+*/
 
 
 #include<stdio.h>

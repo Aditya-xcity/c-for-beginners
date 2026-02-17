@@ -1,5 +1,12 @@
 /*develop a c program to develop whether a given matrix of order mxn is an upper triangular matrix or not.
-an upper trianglular matrix is the one in which all the elements below its prininpile diagonal are 0*/
+an upper trianglular matrix is the one in which all the elements below its prininpile diagonal are 0
+  Name    - ADITYA BHARDWAJ
+  Section - F1
+  Roll No - 06
+  Course  - B TECH
+  Branch  - CSE
+
+*/
 
 #include <stdio.h>
 

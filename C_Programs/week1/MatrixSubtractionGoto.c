@@ -2,7 +2,15 @@
 subtract the elements of the second matrix from the elements of first matrix and 
 then display the resultant matrix to the console
 
-b2-b1*/
+b2-b1
+
+  Name    - ADITYA BHARDWAJ
+  Section - F1
+  Roll No - 06
+  Course  - B TECH
+  Branch  - CSE
+
+*/
 
 #include <stdio.h>
 

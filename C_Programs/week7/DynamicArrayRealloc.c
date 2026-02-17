@@ -1,4 +1,12 @@
-/*Program 19: Write a C program to dynamically allocate memory for an integer array of size N. allow the user to input N integers, resize the array to N+M using realloc to add M more integers, compute the sum of all N+M integers, and properly release the allocated memory.  */
+/*Program 19: Write a C program to dynamically allocate memory for an integer array of size N. allow the user to input N integers, resize the array to N+M using realloc to add M more integers, compute the sum of all N+M integers, and properly release the allocated memory. 
+
+  Name    - ADITYA BHARDWAJ
+  Section - F1
+  Roll No - 06
+  Course  - B TECH
+  Branch  - CSE
+
+*/
 
 #include <stdio.h>
 #include <stdlib.h>

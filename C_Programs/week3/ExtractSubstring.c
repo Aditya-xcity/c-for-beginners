@@ -1,3 +1,12 @@
+/*Write a C program that reads a string and two integer positions from the user. Create a function extractSubstring() that prints the substring between the specified starting and ending indices. Ensure that the program checks for invalid positions before extracting the substring.
+
+  Name    - ADITYA BHARDWAJ
+  Section - F1
+  Roll No - 06
+  Course  - B TECH
+  Branch  - CSE*/
+
+
 #include <stdio.h>
 
 void extractSubstring(char str[], int start, int end) {

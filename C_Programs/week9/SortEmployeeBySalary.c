@@ -2,6 +2,12 @@
 2. Develop a C program to read the following details of N employees into
 appropriate data storage. EmpNo, Name and Salary. Display all the details of the
 employees in the descending order of their salary to the console.
+
+  Name    - ADITYA BHARDWAJ
+  Section - F1
+  Roll No - 06
+  Course  - B TECH
+  Branch  - CSE
 */
 
 #include <stdio.h>

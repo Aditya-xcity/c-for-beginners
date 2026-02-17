@@ -2,6 +2,11 @@
 a11 a12 a13 a11 a21 a31
 a21 a22 a23 a12 a22 a32
 a31 a32 a33 a13 a23 a33
+  Name    - ADITYA BHARDWAJ
+  Section - F1
+  Roll No - 06
+  Course  - B TECH
+  Branch  - CSE
 */
 
 #include<stdio.h>

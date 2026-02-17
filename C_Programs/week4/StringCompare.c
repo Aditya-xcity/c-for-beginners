@@ -2,7 +2,11 @@
 The function should return 1 
 if the strings are equal and 0 otherwise, without using the inbuilt `strcmp` function.
 */
-
+/*  Name    - ADITYA BHARDWAJ
+  Section - F1
+  Roll No - 06
+  Course  - B TECH
+  Branch  - CSE*/
 #include<stdio.h>
 
 int stringcompare(char str1[], char str2[]) {

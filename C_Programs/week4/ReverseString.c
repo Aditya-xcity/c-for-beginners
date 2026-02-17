@@ -1,6 +1,12 @@
 //Write a C program to reverse a string without
 // using a second string and without using a function
 
+/*  Name    - ADITYA BHARDWAJ
+  Section - F1
+  Roll No - 06
+  Course  - B TECH
+  Branch  - CSE*/
+
 #include <stdio.h>
 #include <string.h>
 

@@ -1,3 +1,11 @@
+//Write a C program to check whether a given string is a palindrome or not (case-insensitive).
+
+//   Name    - ADITYA BHARDWAJ
+//   Section - F1
+//   Roll No - 06
+//   Course  - B TECH
+//   Branch  - CSE
+
 #include <stdio.h>
 #include <ctype.h>
 

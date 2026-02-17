@@ -1,6 +1,20 @@
 /*
 Program 4: Develop a C program to accept names in a 2D array and search for a name entered by the user.
-Display an appropriate message on the output screen if the name is found.*/
+Display an appropriate message on the output screen if the name is found.
+
+  Name    - ADITYA BHARDWAJ
+  Section - F1
+  Roll No - 06
+  Course  - B TECH
+  Branch  - CSE
+
+
+
+
+*/
+
+
+
 #include <stdio.h>
 
 int main() {

@@ -9,6 +9,14 @@ program.
  Output:
  -1 1 -4 0 6 -3 0
 
+
+
+   Name    - ADITYA BHARDWAJ
+  Section - F1
+  Roll No - 06
+  Course  - B TECH
+  Branch  - CSE
+
 */
 
 #include <stdio.h>

@@ -9,6 +9,14 @@
    Output: "went up the hill" */  
 
 
+   /*  
+   Name    - ADITYA BHARDWAJ
+  Section - F1
+  Roll No - 06
+  Course  - B TECH
+  Branch  - CSE
+  */
+
    #include <stdio.h>
    #include <string.h>
    

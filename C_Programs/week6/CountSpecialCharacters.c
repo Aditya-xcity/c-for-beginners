@@ -1,7 +1,19 @@
 /* Design a UDF that returns the count of a special character present in a sentence,  
    passed to it using a pointer to the calling program.  
    Implement a C program to read a string in the main program and display  
-   the count of the special character returned by the function to the console. */
+   the count of the special character returned by the function to the console.
+   
+   
+  Name    - ADITYA BHARDWAJ
+  Section - F1
+  Roll No - 06
+  Course  - B TECH
+  Branch  - CSE
+   
+   
+   
+   
+   */
 
 
 

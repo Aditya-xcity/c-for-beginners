@@ -1,4 +1,10 @@
 /*Program 20:  Write a C program to dynamically allocate memory for two user-input strings, concatenate them into a new dynamically allocated string, print the result and free all allocated memory.
+
+  Name    - ADITYA BHARDWAJ
+  Section - F1
+  Roll No - 06
+  Course  - B TECH
+  Branch  - CSE
 */
 #include <stdio.h>
 #include <stdlib.h>

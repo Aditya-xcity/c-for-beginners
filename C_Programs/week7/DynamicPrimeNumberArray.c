@@ -1,4 +1,9 @@
 /*Program 21:  Write a C program to dynamically allocate memory for an array to input N integers and then create a second dynamically allocated array to store only the prime numbers of the N integer array. Print the resultant array and free all the allocated memory.
+  Name    - ADITYA BHARDWAJ
+  Section - F1
+  Roll No - 06
+  Course  - B TECH
+  Branch  - CSE
 */
 
  #include <stdio.h>

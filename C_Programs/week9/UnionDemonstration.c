@@ -3,6 +3,12 @@
 name[20], input values for each field, print the stored values, and demonstrate
 how the union can hold only one value at a time by modifying and printing the
 fields.
+
+  Name    - ADITYA BHARDWAJ
+  Section - F1
+  Roll No - 06
+  Course  - B TECH
+  Branch  - CSE
 */
 
 #include <stdio.h>

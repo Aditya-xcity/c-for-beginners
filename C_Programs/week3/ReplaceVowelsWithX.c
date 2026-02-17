@@ -1,3 +1,12 @@
+/*Write a C program that reads a sentence from the user and replaces every vowel (both uppercase and lowercase) with the character ‘X’. Print the modified string.
+  Name    - ADITYA BHARDWAJ
+  Section - F1
+  Roll No - 06
+  Course  - B TECH
+  Branch  - CSE
+
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>

@@ -5,7 +5,22 @@ screen.
  N=9 Array[ ] = {22, -3, 11, -2, 5, 7,12,13, 18}
  Output:
  Mean μ : 9.22 Std. Deviation: 7.91
- Hint: Use Std. Deviation formula: */
+ Hint: Use Std. Deviation formula: 
+ 
+ 
+   Name    - ADITYA BHARDWAJ
+  Section - F1
+  Roll No - 06
+  Course  - B TECH
+  Branch  - CSE
+ 
+ 
+ 
+ */
+
+
+
+
 
  #include <stdio.h>
 #include <math.h>

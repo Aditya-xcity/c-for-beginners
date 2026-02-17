@@ -4,6 +4,13 @@
 // 1 ^ 0 = 1
 // 0 ^ 1 = 1
 
+
+/*  Name    - ADITYA BHARDWAJ
+  Section - F1
+  Roll No - 06
+  Course  - B TECH
+  Branch  - CSE*/
+
 #include<stdio.h>
 
 int main() {

@@ -6,7 +6,14 @@ eg
 4 5 6 
 1 1 1
 
-1+2+4+6+1+1+1*/
+1+2+4+6+1+1+1
+
+  Name    - ADITYA BHARDWAJ
+  Section - F1
+  Roll No - 06
+  Course  - B TECH
+  Branch  - CSE
+*/
 
 #include <stdio.h>
 

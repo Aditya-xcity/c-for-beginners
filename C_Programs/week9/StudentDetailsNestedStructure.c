@@ -3,6 +3,12 @@
 Admission details of a student read from the keyboard where the date of birth
 and date of admission further consists of three members such as day, month and
 year in a separate structure. Implement using a C structure.
+
+  Name    - ADITYA BHARDWAJ
+  Section - F1
+  Roll No - 06
+  Course  - B TECH
+  Branch  - CSE
 */
 
 #include <stdio.h>

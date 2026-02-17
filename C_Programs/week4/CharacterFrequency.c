@@ -2,6 +2,12 @@
 // in a string entered by the user and display the results on the output screen.
 // Assume that the string contains only alphabets and no special characters or digits.
 
+/*  Name    - ADITYA BHARDWAJ
+  Section - F1
+  Roll No - 06
+  Course  - B TECH
+  Branch  - CSE*/
+
 #include<stdio.h>
 
 int main(){

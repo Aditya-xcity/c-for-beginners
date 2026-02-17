@@ -2,7 +2,15 @@
 message to output to screen
 
 using character array 
-foreg. a d i t y a */
+foreg. a d i t y a 
+
+  Name    - ADITYA BHARDWAJ
+  Section - F1
+  Roll No - 06
+  Course  - B TECH
+  Branch  - CSE
+  
+  */
 
 #include <stdio.h>
 
@@ -63,5 +71,3 @@ int main() {
     return 0;
 }
 
-
-makichut
